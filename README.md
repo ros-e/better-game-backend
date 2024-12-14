@@ -1,4 +1,4 @@
-# Elysia with Bun runtime
+# Backend for reverse engineering malware game 
 
 ## Getting Started
 To get started with this template, simply paste this command into your terminal:
